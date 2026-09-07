@@ -1,0 +1,8 @@
+Initially, the file remains empty.
+After successful registration, the file stores data as follows:
+{"name":"Hari Chandana","email":"hari@example.com","phone":"9876543210","event":"DevOps Workshop","gender":"Female","registeredAt":"2026-08-22T10:00:00.000Z"}
+Each registration is stored on a separate line.
+{"name":"xyz","email":"adduvaruni6@gmail.com","phone":"7569411964","event":"DevOps Workshop","gender":"Female","registeredAt":"2026-08-24T07:15:45.735Z"}
+{"name":"xyz","email":"adduvaruni6@gmail.com","phone":"7569411964","event":"DevOps Workshop","gender":"Female","registeredAt":"2026-08-24T07:19:34.340Z"}
+{"name":"xyz","email":"adduvaruni6@gmail.com","phone":"7569411964","event":"AI Seminar","gender":"Male","registeredAt":"2026-08-24T07:20:01.468Z"}
+{"name":"yhgyg","email":"vf88gffr@gmail.com","phone":"4567890087","event":"Hackathon","gender":"Other","registeredAt":"2026-08-24T07:24:22.169Z"}
