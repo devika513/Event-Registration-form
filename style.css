@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 500px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+}
+label,
+legend {
+    font-weight: bold;
+}
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+fieldset {
+    margin-bottom: 15px;
+}
+fieldset label {
+    font-weight: normal;
+    margin-right: 15px;
+}
+fieldset input {
+    width: auto;
+}
+button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#message {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}

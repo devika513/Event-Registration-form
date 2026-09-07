@@ -1,0 +1,5 @@
+Add: 
+node_modules/
+.env
+This prevents the node_modules directory and environment files from being committed when Git and GitHub are introduced in the next experiments.
+
